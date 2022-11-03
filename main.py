@@ -26,8 +26,6 @@ print('5: Get a fact about a animal. (Args: <animal>)')
 
 print('6: Get the lyrics of a song. (Args: <song>)')
 
-
-print('Made by Grade 6 Dasarath & Abhigyan')
 print("\n")
 time.sleep(2)
 query = input('What is your query ( 1/2/3/4/5/6 ): ')
